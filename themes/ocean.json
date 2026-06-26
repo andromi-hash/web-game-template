@@ -1,0 +1,16 @@
+{
+  "id": "ocean",
+  "name": "Ocean Deep",
+  "colors": {
+    "background": "#001a33",
+    "ground": "#002244",
+    "player": "#00ffff",
+    "obstacle": "#ff3366",
+    "text": "#ffffff",
+    "accent": "#00ffff",
+    "particle": "#00ffff"
+  },
+  "playerShape": "circle",
+  "obstacleShape": "circle",
+  "parallaxLayers": 2
+}

@@ -1,0 +1,16 @@
+{
+  "id": "default",
+  "name": "Neon Runner",
+  "colors": {
+    "background": "#1a1a2e",
+    "ground": "#16213e",
+    "player": "#00ff88",
+    "obstacle": "#ff4444",
+    "text": "#ffffff",
+    "accent": "#00ff88",
+    "particle": "#00ff88"
+  },
+  "playerShape": "square",
+  "obstacleShape": "rectangle",
+  "parallaxLayers": 2
+}

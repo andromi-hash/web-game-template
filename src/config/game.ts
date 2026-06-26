@@ -1,0 +1,30 @@
+export const GAME_CONFIG = {
+  width: 480,
+  height: 800,
+  gravity: 900,
+  jumpVelocity: -420,
+  initialSpeed: 200,
+  maxSpeed: 500,
+  speedIncrement: 0.5,
+  obstacleSpawnMin: 1200,
+  obstacleSpawnMax: 2200,
+  groundY: 700,
+  playerX: 120,
+  playerWidth: 40,
+  playerHeight: 40,
+  obstacleWidth: 30,
+  obstacleMinHeight: 30,
+  obstacleMaxHeight: 80,
+  scorePerSecond: 10,
+  leaderboardMaxEntries: 10,
+} as const;
+
+export const COLORS = {
+  background: 0x1a1a2e,
+  ground: 0x16213e,
+  player: 0x00ff88,
+  obstacle: 0xff4444,
+  text: 0xffffff,
+  accent: 0x00ff88,
+  particle: 0x00ff88,
+};

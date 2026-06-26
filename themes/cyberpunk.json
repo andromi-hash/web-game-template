@@ -1,0 +1,16 @@
+{
+  "id": "cyberpunk",
+  "name": "Cyberpunk",
+  "colors": {
+    "background": "#0d0221",
+    "ground": "#150534",
+    "player": "#ff00ff",
+    "obstacle": "#ff6600",
+    "text": "#ffffff",
+    "accent": "#ff00ff",
+    "particle": "#ff00ff"
+  },
+  "playerShape": "triangle",
+  "obstacleShape": "spike",
+  "parallaxLayers": 3
+}
